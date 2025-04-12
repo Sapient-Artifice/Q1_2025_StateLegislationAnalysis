@@ -1,0 +1,174 @@
+State,Theme Keywords,Count,MaxStateCount,RelativeSize
+Alabama,"education, study, schools, school, develop, directs",2,2,1.0
+Alaska,"media, deepfake, images, election, political, disclosure",3,3,1.0
+Alaska,"education, study, schools, school, develop, directs",1,3,0.3333333333333333
+Arizona,"health, insurers, decisions, care, medical, review",2,2,1.0
+Arizona,"child, sexual, abuse, pornography, images, laws",1,2,0.5
+Arizona,"rent, landlords, rental, pricing, algorithms, algorithmic",1,2,0.5
+Arkansas,"media, deepfake, images, election, political, disclosure",6,6,1.0
+Arkansas,"child, sexual, abuse, pornography, images, laws",3,6,0.5
+Arkansas,"health, insurers, decisions, care, medical, review",3,6,0.5
+Arkansas,"education, study, schools, school, develop, directs",2,6,0.3333333333333333
+Arkansas,"rent, landlords, rental, pricing, algorithms, algorithmic",2,6,0.3333333333333333
+California,"systems, risk, data, high, consumer, transparency",8,8,1.0
+California,"health, insurers, decisions, care, medical, review",6,8,0.75
+California,"rent, landlords, rental, pricing, algorithms, algorithmic",6,8,0.75
+California,"education, study, schools, school, develop, directs",5,8,0.625
+California,"media, deepfake, images, election, political, disclosure",4,8,0.5
+Colorado,"rent, landlords, rental, pricing, algorithms, algorithmic",3,3,1.0
+Colorado,"systems, risk, data, high, consumer, transparency",3,3,1.0
+Colorado,"education, study, schools, school, develop, directs",2,3,0.6666666666666666
+Connecticut,"health, insurers, decisions, care, medical, review",5,5,1.0
+Connecticut,"education, study, schools, school, develop, directs",4,5,0.8
+Connecticut,"media, deepfake, images, election, political, disclosure",4,5,0.8
+Connecticut,"rent, landlords, rental, pricing, algorithms, algorithmic",3,5,0.6
+Connecticut,"systems, risk, data, high, consumer, transparency",3,5,0.6
+Delaware,"education, study, schools, school, develop, directs",1,1,1.0
+Florida,"media, deepfake, images, election, political, disclosure",3,3,1.0
+Florida,"child, sexual, abuse, pornography, images, laws",1,3,0.3333333333333333
+Florida,"education, study, schools, school, develop, directs",1,3,0.3333333333333333
+Florida,"health, insurers, decisions, care, medical, review",1,3,0.3333333333333333
+Georgia,"child, sexual, abuse, pornography, images, laws",2,2,1.0
+Georgia,"education, study, schools, school, develop, directs",2,2,1.0
+Georgia,"systems, risk, data, high, consumer, transparency",2,2,1.0
+Georgia,"media, deepfake, images, election, political, disclosure",1,2,0.5
+Hawaii,"education, study, schools, school, develop, directs",9,9,1.0
+Hawaii,"systems, risk, data, high, consumer, transparency",5,9,0.5555555555555556
+Hawaii,"rent, landlords, rental, pricing, algorithms, algorithmic",4,9,0.4444444444444444
+Hawaii,"health, insurers, decisions, care, medical, review",3,9,0.3333333333333333
+Idaho,"education, study, schools, school, develop, directs",1,1,1.0
+Idaho,"media, deepfake, images, election, political, disclosure",1,1,1.0
+Idaho,"rent, landlords, rental, pricing, algorithms, algorithmic",1,1,1.0
+Idaho,"systems, risk, data, high, consumer, transparency",1,1,1.0
+Illinois,"education, study, schools, school, develop, directs",8,8,1.0
+Illinois,"systems, risk, data, high, consumer, transparency",8,8,1.0
+Illinois,"health, insurers, decisions, care, medical, review",7,8,0.875
+Illinois,"media, deepfake, images, election, political, disclosure",6,8,0.75
+Illinois,"rent, landlords, rental, pricing, algorithms, algorithmic",4,8,0.5
+Indiana,"education, study, schools, school, develop, directs",4,4,1.0
+Indiana,"health, insurers, decisions, care, medical, review",1,4,0.25
+Iowa,"education, study, schools, school, develop, directs",3,3,1.0
+Iowa,"media, deepfake, images, election, political, disclosure",2,3,0.6666666666666666
+Iowa,"systems, risk, data, high, consumer, transparency",2,3,0.6666666666666666
+Kansas,"systems, risk, data, high, consumer, transparency",2,2,1.0
+Kansas,"child, sexual, abuse, pornography, images, laws",1,2,0.5
+Kansas,"rent, landlords, rental, pricing, algorithms, algorithmic",1,2,0.5
+Kentucky,"education, study, schools, school, develop, directs",4,4,1.0
+Kentucky,"media, deepfake, images, election, political, disclosure",1,4,0.25
+Kentucky,"rent, landlords, rental, pricing, algorithms, algorithmic",1,4,0.25
+Maine,"education, study, schools, school, develop, directs",2,2,1.0
+Maine,"health, insurers, decisions, care, medical, review",2,2,1.0
+Maine,"child, sexual, abuse, pornography, images, laws",1,2,0.5
+Maine,"systems, risk, data, high, consumer, transparency",1,2,0.5
+Maryland,"health, insurers, decisions, care, medical, review",6,6,1.0
+Maryland,"systems, risk, data, high, consumer, transparency",6,6,1.0
+Maryland,"media, deepfake, images, election, political, disclosure",5,6,0.8333333333333334
+Maryland,"education, study, schools, school, develop, directs",4,6,0.6666666666666666
+Maryland,"rent, landlords, rental, pricing, algorithms, algorithmic",3,6,0.5
+Massachusetts,"systems, risk, data, high, consumer, transparency",12,12,1.0
+Massachusetts,"education, study, schools, school, develop, directs",6,12,0.5
+Massachusetts,"health, insurers, decisions, care, medical, review",4,12,0.3333333333333333
+Massachusetts,"rent, landlords, rental, pricing, algorithms, algorithmic",4,12,0.3333333333333333
+Massachusetts,"media, deepfake, images, election, political, disclosure",2,12,0.16666666666666666
+Minnesota,"rent, landlords, rental, pricing, algorithms, algorithmic",5,5,1.0
+Minnesota,"education, study, schools, school, develop, directs",4,5,0.8
+Minnesota,"health, insurers, decisions, care, medical, review",3,5,0.6
+Minnesota,"systems, risk, data, high, consumer, transparency",2,5,0.4
+Minnesota,"media, deepfake, images, election, political, disclosure",1,5,0.2
+Mississippi,"education, study, schools, school, develop, directs",2,2,1.0
+Mississippi,"rent, landlords, rental, pricing, algorithms, algorithmic",1,2,0.5
+Missouri,"media, deepfake, images, election, political, disclosure",9,9,1.0
+Missouri,"education, study, schools, school, develop, directs",5,9,0.5555555555555556
+Missouri,"health, insurers, decisions, care, medical, review",2,9,0.2222222222222222
+Missouri,"rent, landlords, rental, pricing, algorithms, algorithmic",1,9,0.1111111111111111
+Missouri,"systems, risk, data, high, consumer, transparency",1,9,0.1111111111111111
+Montana,"media, deepfake, images, election, political, disclosure",8,8,1.0
+Montana,"systems, risk, data, high, consumer, transparency",4,8,0.5
+Montana,"education, study, schools, school, develop, directs",2,8,0.25
+Montana,"child, sexual, abuse, pornography, images, laws",1,8,0.125
+Montana,"health, insurers, decisions, care, medical, review",1,8,0.125
+Nebraska,"child, sexual, abuse, pornography, images, laws",2,2,1.0
+Nebraska,"health, insurers, decisions, care, medical, review",1,2,0.5
+Nebraska,"media, deepfake, images, election, political, disclosure",1,2,0.5
+Nebraska,"systems, risk, data, high, consumer, transparency",1,2,0.5
+Nevada,"health, insurers, decisions, care, medical, review",6,6,1.0
+Nevada,"media, deepfake, images, election, political, disclosure",5,6,0.8333333333333334
+Nevada,"systems, risk, data, high, consumer, transparency",5,6,0.8333333333333334
+Nevada,"child, sexual, abuse, pornography, images, laws",4,6,0.6666666666666666
+Nevada,"education, study, schools, school, develop, directs",1,6,0.16666666666666666
+New Hampshire,"rent, landlords, rental, pricing, algorithms, algorithmic",2,2,1.0
+New Hampshire,"child, sexual, abuse, pornography, images, laws",1,2,0.5
+New Hampshire,"media, deepfake, images, election, political, disclosure",1,2,0.5
+New Hampshire,"systems, risk, data, high, consumer, transparency",1,2,0.5
+New Mexico,"education, study, schools, school, develop, directs",5,5,1.0
+New Mexico,"media, deepfake, images, election, political, disclosure",3,5,0.6
+New Mexico,"health, insurers, decisions, care, medical, review",1,5,0.2
+New Mexico,"rent, landlords, rental, pricing, algorithms, algorithmic",1,5,0.2
+New Mexico,"systems, risk, data, high, consumer, transparency",1,5,0.2
+New York,"media, deepfake, images, election, political, disclosure",13,13,1.0
+New York,"systems, risk, data, high, consumer, transparency",13,13,1.0
+New York,"health, insurers, decisions, care, medical, review",11,13,0.8461538461538461
+New York,"education, study, schools, school, develop, directs",10,13,0.7692307692307693
+New York,"rent, landlords, rental, pricing, algorithms, algorithmic",4,13,0.3076923076923077
+North Carolina,"media, deepfake, images, election, political, disclosure",1,1,1.0
+North Dakota,"education, study, schools, school, develop, directs",10,10,1.0
+North Dakota,"child, sexual, abuse, pornography, images, laws",4,10,0.4
+North Dakota,"media, deepfake, images, election, political, disclosure",4,10,0.4
+North Dakota,"systems, risk, data, high, consumer, transparency",3,10,0.3
+Ohio,"education, study, schools, school, develop, directs",5,5,1.0
+Ohio,"rent, landlords, rental, pricing, algorithms, algorithmic",2,5,0.4
+Ohio,"media, deepfake, images, election, political, disclosure",1,5,0.2
+Oklahoma,"education, study, schools, school, develop, directs",13,13,1.0
+Oklahoma,"media, deepfake, images, election, political, disclosure",6,13,0.46153846153846156
+Oklahoma,"systems, risk, data, high, consumer, transparency",4,13,0.3076923076923077
+Oklahoma,"child, sexual, abuse, pornography, images, laws",2,13,0.15384615384615385
+Oklahoma,"health, insurers, decisions, care, medical, review",2,13,0.15384615384615385
+Oregon,"education, study, schools, school, develop, directs",8,8,1.0
+Oregon,"media, deepfake, images, election, political, disclosure",5,8,0.625
+Oregon,"child, sexual, abuse, pornography, images, laws",2,8,0.25
+Oregon,"health, insurers, decisions, care, medical, review",2,8,0.25
+Oregon,"rent, landlords, rental, pricing, algorithms, algorithmic",2,8,0.25
+Pennsylvania,"media, deepfake, images, election, political, disclosure",7,7,1.0
+Pennsylvania,"systems, risk, data, high, consumer, transparency",3,7,0.42857142857142855
+Pennsylvania,"health, insurers, decisions, care, medical, review",2,7,0.2857142857142857
+Pennsylvania,"education, study, schools, school, develop, directs",1,7,0.14285714285714285
+Pennsylvania,"rent, landlords, rental, pricing, algorithms, algorithmic",1,7,0.14285714285714285
+Rhode Island,"education, study, schools, school, develop, directs",3,3,1.0
+Rhode Island,"systems, risk, data, high, consumer, transparency",3,3,1.0
+Rhode Island,"health, insurers, decisions, care, medical, review",2,3,0.6666666666666666
+Rhode Island,"media, deepfake, images, election, political, disclosure",2,3,0.6666666666666666
+Rhode Island,"rent, landlords, rental, pricing, algorithms, algorithmic",1,3,0.3333333333333333
+South Carolina,"media, deepfake, images, election, political, disclosure",7,7,1.0
+South Carolina,"health, insurers, decisions, care, medical, review",1,7,0.14285714285714285
+South Carolina,"systems, risk, data, high, consumer, transparency",1,7,0.14285714285714285
+South Dakota,"media, deepfake, images, election, political, disclosure",2,2,1.0
+South Dakota,"education, study, schools, school, develop, directs",1,2,0.5
+Tennessee,"education, study, schools, school, develop, directs",6,6,1.0
+Tennessee,"health, insurers, decisions, care, medical, review",2,6,0.3333333333333333
+Texas,"systems, risk, data, high, consumer, transparency",8,8,1.0
+Texas,"education, study, schools, school, develop, directs",7,8,0.875
+Texas,"health, insurers, decisions, care, medical, review",6,8,0.75
+Texas,"media, deepfake, images, election, political, disclosure",5,8,0.625
+Texas,"child, sexual, abuse, pornography, images, laws",3,8,0.375
+Utah,"education, study, schools, school, develop, directs",2,2,1.0
+Utah,"media, deepfake, images, election, political, disclosure",2,2,1.0
+Utah,"systems, risk, data, high, consumer, transparency",2,2,1.0
+Utah,"health, insurers, decisions, care, medical, review",1,2,0.5
+Vermont,"systems, risk, data, high, consumer, transparency",2,2,1.0
+Vermont,"media, deepfake, images, election, political, disclosure",1,2,0.5
+Vermont,"rent, landlords, rental, pricing, algorithms, algorithmic",1,2,0.5
+Virginia,"media, deepfake, images, election, political, disclosure",7,7,1.0
+Virginia,"education, study, schools, school, develop, directs",6,7,0.8571428571428571
+Virginia,"health, insurers, decisions, care, medical, review",5,7,0.7142857142857143
+Virginia,"systems, risk, data, high, consumer, transparency",4,7,0.5714285714285714
+Virginia,"rent, landlords, rental, pricing, algorithms, algorithmic",3,7,0.42857142857142855
+Washington,"child, sexual, abuse, pornography, images, laws",3,3,1.0
+Washington,"education, study, schools, school, develop, directs",3,3,1.0
+Washington,"systems, risk, data, high, consumer, transparency",3,3,1.0
+Washington,"health, insurers, decisions, care, medical, review",2,3,0.6666666666666666
+Washington,"media, deepfake, images, election, political, disclosure",2,3,0.6666666666666666
+West Virginia,"systems, risk, data, high, consumer, transparency",4,4,1.0
+West Virginia,"education, study, schools, school, develop, directs",2,4,0.5
+West Virginia,"media, deepfake, images, election, political, disclosure",2,4,0.5
+West Virginia,"child, sexual, abuse, pornography, images, laws",1,4,0.25
+Wisconsin,"media, deepfake, images, election, political, disclosure",1,1,1.0

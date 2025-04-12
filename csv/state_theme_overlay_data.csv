@@ -1,0 +1,173 @@
+State,State Abbrev,Theme Keywords,Count,RelativeSize
+Alabama,AL,"education, state, intelligence, artificial, department, technology",2,1.0
+Alaska,AK,"content, generated, media, ai, deepfake, election",3,1.0
+Alaska,AK,"education, state, intelligence, artificial, department, technology",1,0.3333333333333333
+Arizona,AZ,"health, insurers, decisions, care, medical, human",2,1.0
+Arizona,AZ,"child, sexual, generated, abuse, pornography, images",1,0.5
+Arizona,AZ,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.5
+Arkansas,AR,"content, generated, media, ai, deepfake, election",6,1.0
+Arkansas,AR,"ai, systems, use, risk, data, high",3,0.5
+Arkansas,AR,"child, sexual, generated, abuse, pornography, images",3,0.5
+Arkansas,AR,"health, insurers, decisions, care, medical, human",3,0.5
+Arkansas,AR,"education, state, intelligence, artificial, department, technology",2,0.3333333333333333
+California,CA,"ai, systems, use, risk, data, high",12,1.0
+California,CA,"health, insurers, decisions, care, medical, human",5,0.4166666666666667
+California,CA,"rent, landlords, rental, pricing, algorithms, algorithmic",5,0.4166666666666667
+California,CA,"content, generated, media, ai, deepfake, election",4,0.3333333333333333
+California,CA,"education, state, intelligence, artificial, department, technology",3,0.25
+Colorado,CO,"ai, systems, use, risk, data, high",5,1.0
+Colorado,CO,"rent, landlords, rental, pricing, algorithms, algorithmic",2,0.4
+Colorado,CO,"education, state, intelligence, artificial, department, technology",1,0.2
+Connecticut,CT,"health, insurers, decisions, care, medical, human",5,1.0
+Connecticut,CT,"ai, systems, use, risk, data, high",4,0.8
+Connecticut,CT,"content, generated, media, ai, deepfake, election",3,0.6
+Connecticut,CT,"education, state, intelligence, artificial, department, technology",3,0.6
+Connecticut,CT,"rent, landlords, rental, pricing, algorithms, algorithmic",3,0.6
+Delaware,DE,"education, state, intelligence, artificial, department, technology",1,1.0
+Florida,FL,"child, sexual, generated, abuse, pornography, images",2,1.0
+Florida,FL,"education, state, intelligence, artificial, department, technology",2,1.0
+Florida,FL,"content, generated, media, ai, deepfake, election",1,0.5
+Florida,FL,"health, insurers, decisions, care, medical, human",1,0.5
+Georgia,GA,"education, state, intelligence, artificial, department, technology",3,1.0
+Georgia,GA,"child, sexual, generated, abuse, pornography, images",2,0.6666666666666666
+Georgia,GA,"ai, systems, use, risk, data, high",1,0.3333333333333333
+Georgia,GA,"content, generated, media, ai, deepfake, election",1,0.3333333333333333
+Hawaii,HI,"education, state, intelligence, artificial, department, technology",10,1.0
+Hawaii,HI,"ai, systems, use, risk, data, high",4,0.4
+Hawaii,HI,"rent, landlords, rental, pricing, algorithms, algorithmic",4,0.4
+Hawaii,HI,"health, insurers, decisions, care, medical, human",3,0.3
+Idaho,ID,"ai, systems, use, risk, data, high",1,1.0
+Idaho,ID,"content, generated, media, ai, deepfake, election",1,1.0
+Idaho,ID,"education, state, intelligence, artificial, department, technology",1,1.0
+Idaho,ID,"rent, landlords, rental, pricing, algorithms, algorithmic",1,1.0
+Illinois,IL,"ai, systems, use, risk, data, high",9,1.0
+Illinois,IL,"education, state, intelligence, artificial, department, technology",7,0.7777777777777778
+Illinois,IL,"health, insurers, decisions, care, medical, human",7,0.7777777777777778
+Illinois,IL,"content, generated, media, ai, deepfake, election",5,0.5555555555555556
+Illinois,IL,"rent, landlords, rental, pricing, algorithms, algorithmic",4,0.4444444444444444
+Indiana,IN,"ai, systems, use, risk, data, high",2,1.0
+Indiana,IN,"education, state, intelligence, artificial, department, technology",2,1.0
+Indiana,IN,"health, insurers, decisions, care, medical, human",1,0.5
+Iowa,IA,"ai, systems, use, risk, data, high",3,1.0
+Iowa,IA,"education, state, intelligence, artificial, department, technology",3,1.0
+Iowa,IA,"content, generated, media, ai, deepfake, election",1,0.3333333333333333
+Kansas,KS,"ai, systems, use, risk, data, high",3,1.0
+Kansas,KS,"child, sexual, generated, abuse, pornography, images",1,0.3333333333333333
+Kentucky,KY,"education, state, intelligence, artificial, department, technology",4,1.0
+Kentucky,KY,"content, generated, media, ai, deepfake, election",1,0.25
+Kentucky,KY,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.25
+Maine,ME,"education, state, intelligence, artificial, department, technology",3,1.0
+Maine,ME,"ai, systems, use, risk, data, high",1,0.3333333333333333
+Maine,ME,"child, sexual, generated, abuse, pornography, images",1,0.3333333333333333
+Maine,ME,"health, insurers, decisions, care, medical, human",1,0.3333333333333333
+Maryland,MD,"ai, systems, use, risk, data, high",6,1.0
+Maryland,MD,"health, insurers, decisions, care, medical, human",6,1.0
+Maryland,MD,"education, state, intelligence, artificial, department, technology",5,0.8333333333333334
+Maryland,MD,"content, generated, media, ai, deepfake, election",4,0.6666666666666666
+Maryland,MD,"rent, landlords, rental, pricing, algorithms, algorithmic",3,0.5
+Massachusetts,MA,"ai, systems, use, risk, data, high",15,1.0
+Massachusetts,MA,"health, insurers, decisions, care, medical, human",4,0.26666666666666666
+Massachusetts,MA,"rent, landlords, rental, pricing, algorithms, algorithmic",4,0.26666666666666666
+Massachusetts,MA,"education, state, intelligence, artificial, department, technology",3,0.2
+Massachusetts,MA,"content, generated, media, ai, deepfake, election",2,0.13333333333333333
+Minnesota,MN,"education, state, intelligence, artificial, department, technology",5,1.0
+Minnesota,MN,"rent, landlords, rental, pricing, algorithms, algorithmic",4,0.8
+Minnesota,MN,"health, insurers, decisions, care, medical, human",3,0.6
+Minnesota,MN,"content, generated, media, ai, deepfake, election",2,0.4
+Minnesota,MN,"ai, systems, use, risk, data, high",1,0.2
+Mississippi,MS,"education, state, intelligence, artificial, department, technology",3,1.0
+Missouri,MO,"content, generated, media, ai, deepfake, election",9,1.0
+Missouri,MO,"education, state, intelligence, artificial, department, technology",5,0.5555555555555556
+Missouri,MO,"health, insurers, decisions, care, medical, human",2,0.2222222222222222
+Missouri,MO,"ai, systems, use, risk, data, high",1,0.1111111111111111
+Missouri,MO,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.1111111111111111
+Montana,MT,"content, generated, media, ai, deepfake, election",7,1.0
+Montana,MT,"ai, systems, use, risk, data, high",4,0.5714285714285714
+Montana,MT,"child, sexual, generated, abuse, pornography, images",2,0.2857142857142857
+Montana,MT,"education, state, intelligence, artificial, department, technology",2,0.2857142857142857
+Montana,MT,"health, insurers, decisions, care, medical, human",1,0.14285714285714285
+Nebraska,NE,"child, sexual, generated, abuse, pornography, images",2,1.0
+Nebraska,NE,"ai, systems, use, risk, data, high",1,0.5
+Nebraska,NE,"content, generated, media, ai, deepfake, election",1,0.5
+Nebraska,NE,"health, insurers, decisions, care, medical, human",1,0.5
+Nevada,NV,"child, sexual, generated, abuse, pornography, images",5,1.0
+Nevada,NV,"content, generated, media, ai, deepfake, election",5,1.0
+Nevada,NV,"health, insurers, decisions, care, medical, human",5,1.0
+Nevada,NV,"ai, systems, use, risk, data, high",4,0.8
+Nevada,NV,"education, state, intelligence, artificial, department, technology",2,0.4
+New Hampshire,NH,"rent, landlords, rental, pricing, algorithms, algorithmic",2,1.0
+New Hampshire,NH,"ai, systems, use, risk, data, high",1,0.5
+New Hampshire,NH,"child, sexual, generated, abuse, pornography, images",1,0.5
+New Hampshire,NH,"content, generated, media, ai, deepfake, election",1,0.5
+New Mexico,NM,"education, state, intelligence, artificial, department, technology",5,1.0
+New Mexico,NM,"content, generated, media, ai, deepfake, election",3,0.6
+New Mexico,NM,"ai, systems, use, risk, data, high",1,0.2
+New Mexico,NM,"health, insurers, decisions, care, medical, human",1,0.2
+New Mexico,NM,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.2
+New York,NY,"ai, systems, use, risk, data, high",19,1.0
+New York,NY,"content, generated, media, ai, deepfake, election",12,0.631578947368421
+New York,NY,"health, insurers, decisions, care, medical, human",9,0.47368421052631576
+New York,NY,"education, state, intelligence, artificial, department, technology",6,0.3157894736842105
+New York,NY,"rent, landlords, rental, pricing, algorithms, algorithmic",4,0.21052631578947367
+North Carolina,NC,"content, generated, media, ai, deepfake, election",1,1.0
+North Dakota,ND,"education, state, intelligence, artificial, department, technology",10,1.0
+North Dakota,ND,"child, sexual, generated, abuse, pornography, images",4,0.4
+North Dakota,ND,"content, generated, media, ai, deepfake, election",4,0.4
+North Dakota,ND,"ai, systems, use, risk, data, high",3,0.3
+Ohio,OH,"education, state, intelligence, artificial, department, technology",5,1.0
+Ohio,OH,"rent, landlords, rental, pricing, algorithms, algorithmic",2,0.4
+Ohio,OH,"content, generated, media, ai, deepfake, election",1,0.2
+Oklahoma,OK,"education, state, intelligence, artificial, department, technology",12,1.0
+Oklahoma,OK,"content, generated, media, ai, deepfake, election",6,0.5
+Oklahoma,OK,"ai, systems, use, risk, data, high",5,0.4166666666666667
+Oklahoma,OK,"child, sexual, generated, abuse, pornography, images",2,0.16666666666666666
+Oklahoma,OK,"health, insurers, decisions, care, medical, human",2,0.16666666666666666
+Oregon,OR,"education, state, intelligence, artificial, department, technology",7,1.0
+Oregon,OR,"child, sexual, generated, abuse, pornography, images",6,0.8571428571428571
+Oregon,OR,"content, generated, media, ai, deepfake, election",2,0.2857142857142857
+Oregon,OR,"health, insurers, decisions, care, medical, human",2,0.2857142857142857
+Oregon,OR,"rent, landlords, rental, pricing, algorithms, algorithmic",2,0.2857142857142857
+Pennsylvania,PA,"content, generated, media, ai, deepfake, election",8,1.0
+Pennsylvania,PA,"ai, systems, use, risk, data, high",3,0.375
+Pennsylvania,PA,"education, state, intelligence, artificial, department, technology",2,0.25
+Pennsylvania,PA,"health, insurers, decisions, care, medical, human",1,0.125
+Rhode Island,RI,"ai, systems, use, risk, data, high",3,1.0
+Rhode Island,RI,"education, state, intelligence, artificial, department, technology",3,1.0
+Rhode Island,RI,"content, generated, media, ai, deepfake, election",2,0.6666666666666666
+Rhode Island,RI,"health, insurers, decisions, care, medical, human",2,0.6666666666666666
+Rhode Island,RI,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.3333333333333333
+South Carolina,SC,"content, generated, media, ai, deepfake, election",4,1.0
+South Carolina,SC,"health, insurers, decisions, care, medical, human",3,0.75
+South Carolina,SC,"ai, systems, use, risk, data, high",1,0.25
+South Carolina,SC,"child, sexual, generated, abuse, pornography, images",1,0.25
+South Dakota,SD,"content, generated, media, ai, deepfake, election",2,1.0
+South Dakota,SD,"education, state, intelligence, artificial, department, technology",1,0.5
+Tennessee,TN,"education, state, intelligence, artificial, department, technology",6,1.0
+Tennessee,TN,"health, insurers, decisions, care, medical, human",2,0.3333333333333333
+Texas,TX,"education, state, intelligence, artificial, department, technology",8,1.0
+Texas,TX,"ai, systems, use, risk, data, high",7,0.875
+Texas,TX,"content, generated, media, ai, deepfake, election",7,0.875
+Texas,TX,"health, insurers, decisions, care, medical, human",5,0.625
+Texas,TX,"child, sexual, generated, abuse, pornography, images",2,0.25
+Utah,UT,"ai, systems, use, risk, data, high",2,1.0
+Utah,UT,"content, generated, media, ai, deepfake, election",2,1.0
+Utah,UT,"education, state, intelligence, artificial, department, technology",2,1.0
+Utah,UT,"health, insurers, decisions, care, medical, human",1,0.5
+Vermont,VT,"ai, systems, use, risk, data, high",2,1.0
+Vermont,VT,"content, generated, media, ai, deepfake, election",1,0.5
+Vermont,VT,"rent, landlords, rental, pricing, algorithms, algorithmic",1,0.5
+Virginia,VA,"content, generated, media, ai, deepfake, election",7,1.0
+Virginia,VA,"ai, systems, use, risk, data, high",6,0.8571428571428571
+Virginia,VA,"health, insurers, decisions, care, medical, human",5,0.7142857142857143
+Virginia,VA,"education, state, intelligence, artificial, department, technology",4,0.5714285714285714
+Virginia,VA,"rent, landlords, rental, pricing, algorithms, algorithmic",3,0.42857142857142855
+Washington,WA,"ai, systems, use, risk, data, high",3,1.0
+Washington,WA,"child, sexual, generated, abuse, pornography, images",3,1.0
+Washington,WA,"education, state, intelligence, artificial, department, technology",3,1.0
+Washington,WA,"content, generated, media, ai, deepfake, election",2,0.6666666666666666
+Washington,WA,"health, insurers, decisions, care, medical, human",2,0.6666666666666666
+West Virginia,WV,"ai, systems, use, risk, data, high",3,1.0
+West Virginia,WV,"education, state, intelligence, artificial, department, technology",3,1.0
+West Virginia,WV,"content, generated, media, ai, deepfake, election",2,0.6666666666666666
+West Virginia,WV,"child, sexual, generated, abuse, pornography, images",1,0.3333333333333333
+Wisconsin,WI,"content, generated, media, ai, deepfake, election",2,1.0
