@@ -12,6 +12,7 @@ Scripts are designed to be executed independently.
 
 ## Contents
 
+- **`AIPolicyHeatmap`** -- Generates the Federal versus State Topic heatmap.
 - **`BillsByState.py`** – Visualizes bill counts by state using bar or map plots.
 - **`ConflictLandscape.py`** – Creates a bubble chart showing AI policy conflict risk by topic, using federal and state bill data.
 - **`Conflict_Dataframe.py`** – Constructs a unified conflict summary DataFrame for later visualization.
