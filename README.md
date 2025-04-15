@@ -9,16 +9,11 @@ The work supports policymakers, journalists, and researchers seeking a fast, cre
 Between January and March 2025, over 590 AI-related state bills and 28 federal proposals were introduced. Our project tracked, categorized, and compared these initiatives across 13 core AI policy domains, highlighting areas of alignment, misalignment, and legal uncertainty between state and federal levels.
 
 This repository provides:
-
-    Primary legislative data (state + federal) in CSV format
-
-    Policy conflict mapping across jurisdictions
-
-    Sentiment and theme analysis of legislative language
-
-    Python scripts for visualization and transformation
-
-    PNG visualizations 
+-    Primary legislative data (state + federal) in CSV format
+-    Policy conflict mapping across jurisdictions
+-    Sentiment and theme analysis of legislative language
+-    Python scripts for visualization and transformation
+-    Plot visualizations (.png) 
 
 This work complements our in-depth Substack article:
 [“Navigating the AI Policy Storm”](https://sapientartifice.substack.com)
@@ -36,50 +31,31 @@ This work complements our in-depth Substack article:
 📂 csv/
 
 This directory contains all core datasets used in the analysis, including:
-
-    State-level legislation tracker (594 bills across 46 states)
-
-    Federal legislation summary and metadata
-
-    Policy conflict map comparing state and federal actions across 13 AI topics
-
-    Sentiment scores, dominant themes, and top issues per state
-
+-    State-level legislation tracker (594 bills across 46 states)
+-    Federal legislation summary and metadata
+-    Policy conflict map comparing state and federal actions across 13 AI topics
+-    Sentiment scores, dominant themes, and top issues per state
 Each subtopic includes its own detailed README:
-
-    README_AI_Legislation_Tracker_2025.md
-
-    README_AI_Policy_Conflict_Map_Q1_2025.md
-
-    README_FedData.md
-
+-    README_AI_Legislation_Tracker_2025.md
+-    README_AI_Policy_Conflict_Map_Q1_2025.md
+-    README_FedData.md
 📂 python_scripts/
 
 All scripts used for data transformation, visualization, and analysis. Each script is self-contained and assumes relevant CSV data is already loaded locally. Common libraries include pandas, matplotlib, seaborn, plotly, and sklearn.
 
 Highlights:
-
-    Topic conflict heatmaps
-
-    Sentiment and subjectivity analysis
-
-    Policy theme clustering and word clouds
-
-    Federal vs. state coverage normalization
-
+-    Topic conflict heatmaps
+-    Sentiment and subjectivity analysis
+-    Policy theme clustering and word clouds
+-    Federal vs. state coverage normalization
 See inline docstrings or comments in each script for usage.
 📂 png/
 
 Exported charts, plots, and heatmaps generated from the analysis scripts.
-
-    Data visualizations: theme clustering, state and federal activity and comparisons.
-
-    Policy classification: Manual and NLP-aided topic tagging based on bill content.
-
-    Conflict scoring: Evaluated for alignment, risk, and fragmentation between state and federal approaches.
-
-    Sentiment analysis: Applied TextBlob to derive polarity and subjectivity for each bill summary or excerpt.
-
+-    Data visualizations: theme clustering, state and federal activity and comparisons.
+-    Policy classification: Manual and NLP-aided topic tagging based on bill content.
+-    Conflict scoring: Evaluated for alignment, risk, and fragmentation between state and federal approaches.
+-    Sentiment analysis: Applied TextBlob to derive polarity and subjectivity for each bill summary or excerpt.
 
   Note: FederalBillsPerYear.png came from [R-Street](https://www.rstreet.org/commentary/how-do-we-measure-what-congress-has-accomplished/)
 
