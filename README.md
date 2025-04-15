@@ -16,7 +16,7 @@ This repository provides:
 -    Plot visualizations (.png) 
 
 This work complements our in-depth Substack article:
-[“Navigating the AI Policy Storm”]([https://sapientartifice.substack.com](https://open.substack.com/pub/sapientartifice/p/navigating-the-ai-policy-storm?r=58tol0&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false))
+[“Navigating the AI Policy Storm”](https://open.substack.com/pub/sapientartifice/p/navigating-the-ai-policy-storm?r=58tol0&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 📁 Repository Structure
 ```
